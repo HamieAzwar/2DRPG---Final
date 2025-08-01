@@ -57,3 +57,5 @@ A top-down 2D role-playing game (RPG) developed in Unity with C# as part of our 
 4. Switch weapons with keys 1–3
 5. Collect items and survive waves of enemies!
 
+## Video Demo
+https://www.youtube.com/playlist?list=PLGAdiPHW4pkn1NOUXo3k11GhYlnXGieTf
