@@ -24,6 +24,11 @@ A top-down 2D role-playing game (RPG) developed in Unity with C# as part of our 
 * Scene transitions and 2D lighting
 * Player death and respawn logic
 
+## 📚 Acknowledgements
+
+This project was inspired and guided by the excellent Unity 2D RPG tutorial series by **darkswear** on YouTube:
+https://youtube.com/playlist?list=PL6bqhqO0Ba776ksb3F9P_xmUMT9WvmfFT&si=MBKfWkkTK2ZdHaH5
+
 ## 🧠 Object-Oriented Programming Concepts
 
 * **Encapsulation**: Each game object manages its own state and logic.
